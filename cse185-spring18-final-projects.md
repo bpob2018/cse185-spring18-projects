@@ -59,17 +59,17 @@ To submit, upload your proposal to your Github repository with a name `CSE185_Pr
 <a name="lightning"></a>
 **Sign up to present either Wednesday May 30, Monday June 4, or Monday June 6**
 
-A 60 second presentation to the class about what you’ve been working on. Include your project plans and any progress you’ve made. You must include one informative slide, and one slide with a clicker question for the class. You can ask a quiz question about your topic, for advice for your project, or for predictions about what your results will show. 
+A 60 second presentation to the class about what you’ve been working on. Include your project plans and any progress you’ve made. You must include one informative slide which you add to the *shared Google Slides* for the session you signed up for.
 
 ## Lightning Talk scoring
 
 Talks are out of 4 pts:
 
-* 1 pt: Talk is within tim (practice with a timer to make sure you're under 60 seconds!)
-* 1 pt: Has informative slide AND clicker slide
+* 1 pt: Talk is within time (practice with a timer to make sure you're under 60 seconds!)
+* 1 pt: Has informative slide
 * 2pts: Good summary of proposed work & any progress
 
-There will be more instructions sent out this week about how to sign up for a slot and how to submit your slides. In addition, you should upload slides to your repository with the filename `CSE185_Project_LightningTalk.pptx`.
+There will be more instructions sent out this week about how to sign up for a slot and how to submit your slides. You should add your slide to the *shared Google Slides* for the session (in the correct order).
 
 
 # Project Report (10%)
