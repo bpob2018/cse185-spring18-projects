@@ -61,6 +61,8 @@ To submit, upload your proposal to your Github repository with a name `CSE185_Pr
 
 A 60 second presentation to the class about what you’ve been working on. Include your project plans and any progress you’ve made. You must include one informative slide which you add to the *shared Google Slides* for the session you signed up for.
 
+Add your name on the specific day you would like to present on this Google spreadsheet: `https://docs.google.com/spreadsheets/d/1Jolk1gvmJvebwZrkv8dAAHq6Jq-73DPUtvH5dL6NNro/edit?usp=sharing`
+
 ## Lightning Talk scoring
 
 Talks are out of 4 pts:
