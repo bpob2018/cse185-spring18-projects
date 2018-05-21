@@ -73,9 +73,9 @@ Talks are out of 4 pts:
 
 Sign up for a slot on the above Google Spreadsheet, and add your slides to the slide deck for the corresponding day in the order you are presenting. You should add your slide to the *shared Google Slides* for the session (in the correct order).
 
-May 30: https://docs.google.com/presentation/d/1_TkfgwvexbwXd6jUX-078hDiHhPgGfLA7O3SwFMiLCQ/edit?usp=sharing
-June 4: https://docs.google.com/presentation/d/12yNxI1IQTJ6bQZdemQlLkuHnbIdRK5EazPJ6P4q_lms/edit?usp=sharing
-June 6: https://docs.google.com/presentation/d/1IER1oSJuvNN5qCokI-3C-hrbPRpgcae2HPj94zrj9oo/edit?usp=sharing
+May 30: `https://docs.google.com/presentation/d/1_TkfgwvexbwXd6jUX-078hDiHhPgGfLA7O3SwFMiLCQ/edit?usp=sharing`  
+June 4: `https://docs.google.com/presentation/d/12yNxI1IQTJ6bQZdemQlLkuHnbIdRK5EazPJ6P4q_lms/edit?usp=sharing`  
+June 6: `https://docs.google.com/presentation/d/1IER1oSJuvNN5qCokI-3C-hrbPRpgcae2HPj94zrj9oo/edit?usp=sharing`  
 
 # Project Report (10%)
 <a name="report"></a>
