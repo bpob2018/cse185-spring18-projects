@@ -18,7 +18,7 @@ Your dataset must meet the following requirements:
 
 The remainder lab sections on Tuesdays and Thursdays will be devoted to working on the projects. You are encouraged to come in and work during the class time, and attendance will still be taken. Take advantage of the instructors as useful resources during this time.
 
-Like the lab assignments, projects will be completed on Github. A project link will be posted during week 8. During the project period, you are still expected to maintain a lab notebook as part of this repository (`CSE185_Project_LabNotebook.md`). At the very least, you should have one entry per lab class period. You can document what you've tried, notes about datasets and ideas, and eventually the commands you're using to tackle your biological questions.
+You are still expected to maintain a lab notebook as part of this repository (`CSE185_Project_LabNotebook.md`). At the very least, you should have one entry per lab class period. You can document what you've tried, notes about datasets and ideas, and eventually the commands you're using to tackle your biological questions.
 
 This project is worth 15% of your final grade, broken down as follows:
 
@@ -53,7 +53,7 @@ Proposals are scored out of 6 points:
 * 2pts: scientific question is clearly stated and makes sense to analyze using the chosen dataset
 * 1pt: Proposed pipeline seems plausible to complete in 2 weeks and demonstrates thought
 
-To submit, upload your proposal to your Github repository with a name `CSE185_Project_Proposal.md`.
+To submit, upload your proposal to your Github repository with a name `CSE185_Project_Proposal.md` (or as a PDF).
 
 # Lightning Talk (2%)
 <a name="lightning"></a>
@@ -61,7 +61,15 @@ To submit, upload your proposal to your Github repository with a name `CSE185_Pr
 
 A 60 second presentation to the class about what you’ve been working on. Include your project plans and any progress you’ve made. You must include one informative slide which you add to the *shared Google Slides* for the session you signed up for.
 
-Add your name on the specific day you would like to present on this Google spreadsheet: `https://docs.google.com/spreadsheets/d/1Jolk1gvmJvebwZrkv8dAAHq6Jq-73DPUtvH5dL6NNro/edit?usp=sharing`
+Add your name on the specific day you would like to present on this Google spreadsheet: [https://docs.google.com/spreadsheets/d/1Jolk1gvmJvebwZrkv8dAAHq6Jq-73DPUtvH5dL6NNro/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1Jolk1gvmJvebwZrkv8dAAHq6Jq-73DPUtvH5dL6NNro/edit?usp=sharing)
+
+By 11:00am the day before your presentation, add your slides to the slide deck for the corresponding day in the order you are presenting. You should add your slide to the *shared Google Slides* for the session in the correct order, based on your slot in the spreadsheet.
+
+May 30: [https://docs.google.com/presentation/d/1_TkfgwvexbwXd6jUX-078hDiHhPgGfLA7O3SwFMiLCQ/edit?usp=sharing](https://docs.google.com/presentation/d/1_TkfgwvexbwXd6jUX-078hDiHhPgGfLA7O3SwFMiLCQ/edit?usp=sharing)
+
+June 4: [https://docs.google.com/presentation/d/12yNxI1IQTJ6bQZdemQlLkuHnbIdRK5EazPJ6P4q_lms/edit?usp=sharing](https://docs.google.com/presentation/d/12yNxI1IQTJ6bQZdemQlLkuHnbIdRK5EazPJ6P4q_lms/edit?usp=sharing)  
+
+June 6: [https://docs.google.com/presentation/d/1IER1oSJuvNN5qCokI-3C-hrbPRpgcae2HPj94zrj9oo/edit?usp=sharing](https://docs.google.com/presentation/d/1IER1oSJuvNN5qCokI-3C-hrbPRpgcae2HPj94zrj9oo/edit?usp=sharing)  
 
 ## Lightning Talk scoring
 
@@ -71,11 +79,6 @@ Talks are out of 4 pts:
 * 1 pt: Has informative slide
 * 2pts: Good summary of proposed work & any progress
 
-Sign up for a slot on the above Google Spreadsheet, and add your slides to the slide deck for the corresponding day in the order you are presenting. You should add your slide to the *shared Google Slides* for the session (in the correct order).
-
-May 30: `https://docs.google.com/presentation/d/1_TkfgwvexbwXd6jUX-078hDiHhPgGfLA7O3SwFMiLCQ/edit?usp=sharing`  
-June 4: `https://docs.google.com/presentation/d/12yNxI1IQTJ6bQZdemQlLkuHnbIdRK5EazPJ6P4q_lms/edit?usp=sharing`  
-June 6: `https://docs.google.com/presentation/d/1IER1oSJuvNN5qCokI-3C-hrbPRpgcae2HPj94zrj9oo/edit?usp=sharing`  
 
 # Project Report (10%)
 <a name="report"></a>
