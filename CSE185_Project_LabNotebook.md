@@ -15,5 +15,7 @@
 * SRA access #: DRX040459 - Illumina HiSeq 2000 sequencing of SAMD00028957 (1.7G)
 * SRA access #: DRX040458 - https://www.ncbi.nlm.nih.gov/sra/DRX040458[accn] (1.8G)
 
+Possible Question: Investigate what factors are responsible for triggering limb regeneration in frogs?  Or develpment of limbs from tadpoles to frogs?
+
 ### Lab Session 2.  May 24, 2018.
 #### Goal: one sentence about the biological question for the dataset you chose; also sign up for lightning talks
