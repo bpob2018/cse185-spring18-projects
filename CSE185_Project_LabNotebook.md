@@ -12,7 +12,7 @@
 
 2. Find 3 relevant datasets:
 * SRA access #: SRX1493621  -  Hindlimb RNAs from T3-treated Xenopus tropicalis (10G)
-* SRA access #: DRX040459 -Illumina HiSeq 2000 sequencing of SAMD00028957 (1.7G)
+* SRA access #: DRX040459 - Illumina HiSeq 2000 sequencing of SAMD00028957 (1.7G)
 * SRA access #: DRX040458 - https://www.ncbi.nlm.nih.gov/sra/DRX040458[accn] (1.8G)
 
 ### Lab Session 2.  May 24, 2018.
