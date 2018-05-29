@@ -24,3 +24,4 @@ __Plan to use all these datasets lisetd above__
 ### Lab Session 3.  May 29, 2018.
 Link about ALLPATHS-LG: http://schatzlab.cshl.edu/teaching/2011/2011-11-15.Assembly%20Tutorial.pdf
 1. Downloaded ALLPATHS-LG v. 44837
+Manual found here: ftp://ftp.broadinstitute.org/pub/crd/ALLPATHS/Release-LG/AllPaths-LG_Manual.pdf
