@@ -25,3 +25,8 @@ __Plan to use all these datasets lisetd above__
 Link about ALLPATHS-LG: http://schatzlab.cshl.edu/teaching/2011/2011-11-15.Assembly%20Tutorial.pdf
 1. Downloaded ALLPATHS-LG v. 44837
 Manual found here: ftp://ftp.broadinstitute.org/pub/crd/ALLPATHS/Release-LG/AllPaths-LG_Manual.pdf
+
+2. While ALLPATHS-LG installing, write out steps from lab 3 tutorial for comparison purposes.
+Week 3 Assembly:
+1. Inspect the data and run fastqc
+2. Used frag fastq files to assemble genome, using a de Brujin graph strategy which breaks
