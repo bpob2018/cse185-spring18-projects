@@ -29,4 +29,4 @@ Manual found here: ftp://ftp.broadinstitute.org/pub/crd/ALLPATHS/Release-LG/AllP
 2. While ALLPATHS-LG installing, write out steps from lab 3 tutorial for comparison purposes.
 Week 3 Assembly:
 1. Inspect the data and run fastqc
-2. Used frag fastq files to assemble genome, using a de Brujin graph strategy which breaks
+2. Used frag fastq files to assemble genome, using a de Brujin graph strategy which breaks reads up into k-mers to facilitate assembly of correctly connected contigs.
