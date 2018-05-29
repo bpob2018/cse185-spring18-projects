@@ -20,3 +20,6 @@ __Plan to use all these datasets lisetd above__
 ### Lab Session 2.  May 24, 2018.
 #### Goal: one sentence about the biological question for the dataset you chose; also sign up for lightning talks
 1. __Question to answer:__ As in the paper by Liao *et al*, I sought to also provide a comprehensive comparison of assembly methodologies mentioend in this paper, most likely between one mentioned hybrid and one mentioned non-hybrid methodology.  If time persists, I'd like to compare these two methodologies to the method/approach we took in our week 3 lab tutorial when assembling the reference genome.  I might use ALLPATHS-LG approach for my hybrid study and then Hierarchical genome-assembly process (HGAP) for my non-hybrid study.
+
+### Lab Session 3.  May 29, 2018.
+Link about ALLPATHS-LG: http://schatzlab.cshl.edu/teaching/2011/2011-11-15.Assembly%20Tutorial.pdf
