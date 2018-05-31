@@ -35,3 +35,38 @@ Week 3 Assembly:
 *Note:* I changed my topic to RNA-Seq inspired by this paper in this link: https://www.nature.com/articles/ncb3117 
 1. Looked at tutorial of RNA-Seq in R listed here https://bioinformatics-core-shared-training.github.io/RNAseq-R/align-and-count.nb.html
 2. Downloaded all 12 fastq sets from SRA for my RNA-seq analysis in R.  SRA Accession Number: SRP045534
+3. Downloaded Rsubread into R module on `ieng6` --> will use to build index and align
+4. Load Rsubread package into R using `library(Rsubread) `
+5. Downloaded fasta file for chromosome 1 of mm10 mouse genome from UCSC genome browser --> to be used to build index.
+6. Build the index with command in Rsubread with `buildindex(basename="chr1_mm10", reference="chr1.fa")`
+7. Align each of 12 samples (subset of 1000 reads per sample) with command `align("chr1_mm10", fastq.files)`
+8. Find out how many reads were mapped to reference genome usin `propmapped` function on BAM files.
+Output below:
+```
+                                                                Samples
+1  /home/linux/ieng6/cs185s/bpoblete/Final/SRR1552444.fastq.gz.subread.BAM
+2  /home/linux/ieng6/cs185s/bpoblete/Final/SRR1552445.fastq.gz.subread.BAM
+3  /home/linux/ieng6/cs185s/bpoblete/Final/SRR1552446.fastq.gz.subread.BAM
+4  /home/linux/ieng6/cs185s/bpoblete/Final/SRR1552447.fastq.gz.subread.BAM
+5  /home/linux/ieng6/cs185s/bpoblete/Final/SRR1552448.fastq.gz.subread.BAM
+6  /home/linux/ieng6/cs185s/bpoblete/Final/SRR1552449.fastq.gz.subread.BAM
+7  /home/linux/ieng6/cs185s/bpoblete/Final/SRR1552450.fastq.gz.subread.BAM
+8  /home/linux/ieng6/cs185s/bpoblete/Final/SRR1552451.fastq.gz.subread.BAM
+9  /home/linux/ieng6/cs185s/bpoblete/Final/SRR1552452.fastq.gz.subread.BAM
+10 /home/linux/ieng6/cs185s/bpoblete/Final/SRR1552453.fastq.gz.subread.BAM
+11 /home/linux/ieng6/cs185s/bpoblete/Final/SRR1552454.fastq.gz.subread.BAM
+12 /home/linux/ieng6/cs185s/bpoblete/Final/SRR1552455.fastq.gz.subread.BAM
+   NumTotal NumMapped PropMapped
+1      1000       145      0.145
+2      1000       136      0.136
+3      1000       120      0.120
+4      1000       113      0.113
+5      1000        55      0.055
+6      1000        76      0.076
+7      1000       124      0.124
+8      1000       161      0.161
+9      1000       142      0.142
+10     1000       151      0.151
+11     1000       133      0.133
+12     1000       117      0.117
+```
