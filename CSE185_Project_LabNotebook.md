@@ -30,3 +30,8 @@ Manual found here: ftp://ftp.broadinstitute.org/pub/crd/ALLPATHS/Release-LG/AllP
 Week 3 Assembly:
 1. Inspect the data and run fastqc
 2. Used frag fastq files to assemble genome, using a de Brujin graph strategy which breaks reads up into k-mers to facilitate assembly of correctly connected contigs.
+
+### Lab Session 4.  May 31, 2018.
+*Note:* I changed my topic to RNA-Seq inspired by this paper in this link: https://www.nature.com/articles/ncb3117 
+1. Looked at tutorial of RNA-Seq in R listed here https://bioinformatics-core-shared-training.github.io/RNAseq-R/align-and-count.nb.html
+2. Downloaded all 12 fastq sets from SRA for my RNA-seq analysis in R.  SRA Accession Number: SRP045534
